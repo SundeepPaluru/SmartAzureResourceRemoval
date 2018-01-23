@@ -1,0 +1,2 @@
+# SmartAzureResourceRemoval
+SmartAzureResourceRemoval
